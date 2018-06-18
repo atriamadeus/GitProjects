@@ -1,1 +1,1 @@
-## This folder hads different projects built using python.
+## This folder has different python based projects .
