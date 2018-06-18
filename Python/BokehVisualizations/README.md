@@ -2,4 +2,4 @@
 
 This a repository for Visualizations in Python Bokeh
 
-Interactive visualization dashboard and the interactions in jupyter notebook can be seen by downloading the files. 
+Jupyter notebook needs to be downloaded and run in a local machine to view the full functionality of the bokeh interactive visualizations.
