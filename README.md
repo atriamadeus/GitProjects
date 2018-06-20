@@ -1,5 +1,4 @@
 # GitProjects
 
-This a repository for Visualizations in Python Bokeh. 
-Jupyter notebook needs to be downloaded and run in a local machine to view the full functionality of the bokeh interactive visualizations.
+This a repository for Visualizations in Python Bokeh and Mathematical Models performed using CPLEX and other programming languages. 
 
