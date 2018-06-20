@@ -12,3 +12,11 @@ What should thew company do to minimize the total annual distance traveled by it
 
 Objective: To develop a linear model, using binary variables, that determines the locations of service centers 
 and then assigns customers to these service centers to minimize the total annual distance traveled.
+
+
+
+There are two files: 
+
+ServiceProvider.mod  : It contains the model
+
+ServiceProvider.dat  : It contains the data for the model
