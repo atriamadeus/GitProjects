@@ -48,8 +48,9 @@ Seattle	612
  Distance between two cities is given by:
  
  
-     	|Boston	|Chicago |	Dallas |	Denver|	Los Angeles|	Miami |	New York |	Phoenix| Pittsburgh |	San Francisco |	Seattle |
-Boston	0	983	1815	1991	3036	1539	213	2664	792	2385	2612
+|From City	|Boston	|Chicago |	Dallas |	Denver|	Los Angeles|	Miami |	New York |	Phoenix| Pittsburgh |	San Francisco |	Seattle |
+|--- | --- | --- |---|---|---|---|---|---|---|---|---|      
+|Boston	|0	|983	|1815	|1991|	3036	|1539|	213	|2664|	792|	2385	|2612|
 Chicago	983	0	1205	1050	2112	1390	840	1729	457	2212	2052
 Dallas	1815	1205	0	801	1425	1332	1604	1027	1237	1765	2404
 Denver	1991	1050	801	0	1174	2041	1780	836	1411	1765	1373
