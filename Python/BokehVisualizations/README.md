@@ -11,3 +11,5 @@ bokeh serve --db1b_2.py
 To run jupyter notebook run the following from your command prompt:
 
 jupyter notebook
+
+Then copy paste the url you receive on your browser to render the bokeh dashboard or see jupyter notebook.
